@@ -1,0 +1,40 @@
+[
+  {
+    "studentNo":1,
+    "Name":"Ajit",
+    "Age":24,
+    "Like":"Math",
+    "Gender":"Male"
+
+  },
+  {
+    "studentNo":2,
+    "Name":"Ani",
+    "Age":24,
+    "Like":"Math",
+    "Gender":"Female"
+  },
+  {
+    "studentNo":4,
+    "Name":"Ajit",
+    "Age":24,
+    "Like":"Math",
+    "Gender":"Male"
+
+  },
+  
+  {
+    "studentNo":5,
+    "Name":"Ajit",
+    "Age":24,
+    "Like":"Math",
+    "Gender":"Female"
+  },
+  {
+    "studentNo":6,
+    "Name":"Ajit",
+    "Age":24,
+    "Like":"Math",
+    "Gender":"Male"
+  }
+]

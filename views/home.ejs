@@ -1,0 +1,12 @@
+<%- include("header.ejs")-%>
+
+<h1>Home</h1>
+
+<p > <%= content %> </p>
+
+<% Arr.forEach((value) => {%>
+  <h1><%= value.title %></h1>
+  <p><%=value.body.substring(0,100)%>... <a href="/post/<%= value.title%>">Read more</a></p>
+<% });%>
+
+<%- include("footer.ejs") -%>
